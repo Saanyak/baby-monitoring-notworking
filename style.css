@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+    text-align: center;
+}
+
+.heading {
+    width: 100%;
+    font-size: 22px;
+    font-family: cursive;
+    margin-top: 0px;
+}
+
+#status, #object_detected {
+    font-size: 17px;
+}
+
+canvas {
+    position: center;
+    border-radius: 10px;
+    border-style: ridge;
+    border-color: rgb(27, 99, 180);
+    box-shadow: 7px 7px 7px rgb(78, 102, 167);
+}
